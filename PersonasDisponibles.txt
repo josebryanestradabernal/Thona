@@ -1,0 +1,10 @@
+Bryan,H,1.72,Moreno,Gato,Extrovertido,Caminatas,Amarillo,Musica,Pink Floyd,Watch Men,Ninguna
+Brandon,H,1.72,Moreno,Gato,Extrovertido,Cine,Amarillo,Musica,Pink Floyd,Malefica,Ninguna
+Fernando,H,1.69,Moreno,Perro,Amistoso,Cine,Rojo,Jugar Video Juegos,Nirvana,Pulp Fiction,Cristiano
+Ivan,H,1.65,Moreno,Perro,Introvertido,Museos,Blanco,Jugar Futbol,El Komander,Minions,Ninguna
+Ivanes,H,2.00,Albino,Gato,Inquieto,Caminatas,Morado,Tocar El Bajo,Sex Pistols,Ninuna,Ninguna
+Karina,M,1.60,Albina,Gato,Introvertido,Caminatas,Amarillo,Musica,Beatles,Zoolander,Ninguna
+Vaneza,M,1.60,Morena,Gato,Extrovertido,Caminatas,Amarillo,Musica,Apocallyptica,Zootopia,Cristiano
+Karen,M,1.70,Blanca,Gato,Introvertido,Cine,Rojo,Jugar Video Juegos,Daft Punk,Crepusculo,Ninguna
+Jimena,M,1.80,Morena,Perro,Amistoso,Museos,Morado,Jugar Futbol,Carcass,Watch Men,Ninguna
+Laura,M,1.80,Morena,Perro,Amistoso,Museos,Morado,Jugar Futbol,Carcass,Watch Men,Ninguna
